@@ -59,7 +59,7 @@ After training, we evaluate the model's performance.
 
 ### Loss Curve
 The following graph shows how the model's loss magnitude (error) decreased throughout the 15 training epochs. A downward curve indicates that the model is learning correctly.
-
+![image info](./imgs/LossMagnitude.png)
 ```python
 # View the loss function
 plt.xlabel("# Epoch")

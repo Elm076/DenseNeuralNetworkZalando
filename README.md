@@ -89,6 +89,9 @@ for i in range(num_images):
 A visual example:<br>
 ![image info](./imgs/prediction.png)
 
+With 25 test images, the model made only 4 incorrect predictions (84% success rate).<br>
+![image info](./imgs/predictions.png)
+
 As can be seen, the model achieves a high degree of accuracy in classifying the different clothing items.
 
 ## 🚀 How to use this repository?

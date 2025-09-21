@@ -86,7 +86,7 @@ for i in range(num_images):
   plt.subplot(rows, 2*cols, 2*i+2)
   plot_value_array(i, predictions, test_labels)
 ```
-A visual example:
+<p>A visual example:</p>
 ![image info](./imgs/prediction.png)
 
 As can be seen, the model achieves a high degree of accuracy in classifying the different clothing items.
